@@ -1,6 +1,6 @@
 # BattleShip_api
 
-Ce projet est un api REST progammer en PHP avec Laravel.
+Ce projet est un API REST en PHP avec Laravel.
 Celui-ci consiste à un api jouant au jeu de BattleShip.
 Pour créer de meilleur prédiction sur les cases possibles à tirer, 
 l'algorithme utilise une simulation de monte carlo afin de générer en début 
